@@ -6,3 +6,4 @@
 - Retrieval 
 - Question Answering
 - Chat
+- Conclusion
